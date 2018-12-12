@@ -18,11 +18,11 @@ Youtube to mp3 conversion API's
 
 <div class="panel-heading">
 <ul class="nav nav-tabs" role="tablist" id="button-api-tabs">
-<li role="presentation" class="active"><a href="#mp3-button-api" aria-controls="home" role="tab" data-toggle="tab">Fast Server</a></li>
-<li role="presentation"><a href="#videostreams-button-api" aria-controls="messages" role="tab" data-toggle="tab">Cloud Computing Networks</a></li>
-<li role="presentation"><a href="#videostreams-button-api" aria-controls="messages" role="tab" data-toggle="tab">Global Content Delivery Network (CDN)</a></li>
-<li role="presentation"><a href="#audiostreams-button-api" aria-controls="settings" role="tab" data-toggle="tab">Multiple Converter Servers</a></li>
-<li role="presentation"><a href="#audiostreams-button-api" aria-controls="settings" role="tab" data-toggle="tab">1 Gbit/s Port Speed</a></li>
+<li role="presentation" class="active"><a href="https://api.download-lagu-mp3.com" aria-controls="home" role="tab" data-toggle="tab">Fast Server</a></li>
+<li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="messages" role="tab" data-toggle="tab">Cloud Computing Networks</a></li>
+<li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="messages" role="tab" data-toggle="tab">Global Content Delivery Network (CDN)</a></li>
+<li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="settings" role="tab" data-toggle="tab">Multiple Converter Servers</a></li>
+<li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="settings" role="tab" data-toggle="tab">1 Gbit/s Port Speed</a></li>
 <li role="presentation" class="active"><a href="#mp3-button-api" aria-controls="home" role="tab" data-toggle="tab">High Performance Dedicated Servers</a></li>
 </ul>
 </div>
