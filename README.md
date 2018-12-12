@@ -19,10 +19,24 @@ Youtube to mp3 conversion API's
 <div class="panel-heading">
 <ul class="nav nav-tabs" role="tablist" id="button-api-tabs">
 <li role="presentation" class="active"><a href="#mp3-button-api" aria-controls="home" role="tab" data-toggle="tab">Fast Server</a></li>
-<li role="presentation"><a href="#videos-button-api" aria-controls="profile" role="tab" data-toggle="tab">Global Content Delivery Network (CDN)</a></li>
 <li role="presentation"><a href="#videostreams-button-api" aria-controls="messages" role="tab" data-toggle="tab">Cloud Computing Networks</a></li>
+<li role="presentation"><a href="#videostreams-button-api" aria-controls="messages" role="tab" data-toggle="tab">Global Content Delivery Network (CDN)</a></li>
 <li role="presentation"><a href="#audiostreams-button-api" aria-controls="settings" role="tab" data-toggle="tab">Multiple Converter Servers</a></li>
 <li role="presentation"><a href="#audiostreams-button-api" aria-controls="settings" role="tab" data-toggle="tab">1 Gbit/s Port Speed</a></li>
 <li role="presentation" class="active"><a href="#mp3-button-api" aria-controls="home" role="tab" data-toggle="tab">High Performance Dedicated Servers</a></li>
 </ul>
+</div>
+<h4 class="panel-title panel-heading">Example MP3 Button</h4>
+</div>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="videos-button-api">
+<pre class="prettyprint lang-html"><iframe class="button-api-frame" src="https://api.download-lagu-mp3.com/@api/button/mp3/[Youtube ID]" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></pre>
+</div>
+</div>
+<h4 class="panel-title panel-heading">Example Video Button</h4>
+</div>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="videos-button-api">
+<pre class="prettyprint lang-html"><iframe class="button-api-frame" src="https://api.download-lagu-mp3.com/@api/button/videos/[Youtube ID]" width="100%" height="100%" allowtransparency="true" scrolling="no" style="border:none"></iframe></pre>
+</div>
 </div>
