@@ -23,7 +23,7 @@ Youtube to mp3 conversion API's
 <li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="messages" role="tab" data-toggle="tab">Global Content Delivery Network (CDN)</a></li>
 <li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="settings" role="tab" data-toggle="tab">Multiple Converter Servers</a></li>
 <li role="presentation"><a href="https://api.download-lagu-mp3.com" aria-controls="settings" role="tab" data-toggle="tab">1 Gbit/s Port Speed</a></li>
-<li role="presentation" class="active"><a href="#mp3-button-api" aria-controls="home" role="tab" data-toggle="tab">High Performance Dedicated Servers</a></li>
+<li role="presentation" class="active"><a href="https://api.download-lagu-mp3.com" aria-controls="home" role="tab" data-toggle="tab">High Performance Dedicated Servers</a></li>
 </ul>
 </div>
 <h4 class="panel-title panel-heading">Example MP3 Button</h4>
